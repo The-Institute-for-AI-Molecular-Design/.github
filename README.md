@@ -1,2 +1,3 @@
 # .github
 The description of The Institute for AI Molecular Design
+We are a research consortium jointly established by the College of Pharmaceutical Sciences at Zhejiang University and the Department of Computer Science and Engineering at CUHK, led by Odin. Our ambitious vision is the de novo design of life. As Nietzsche once remarked, if a god were to exist, how could I tolerate not becoming one myself?
